@@ -1,0 +1,71 @@
+:root{
+  --white: #fff;
+  --white-opc-1: rgba(255,255,255,0.1);
+  --white-opc-25: rgba(255,255,255,0.25);
+  --white-opc-3: rgba(255,255,255,0.3);
+  --white-opc-5: rgba(255,255,255,0.5);
+  --white-opc-6: rgba(255,255,255,0.6);
+  --white-opc-7: rgba(255,255,255,0.7);
+  --black: #000;
+  --black-opa-03: rgba(0,0,0,0.03);
+  --black-opa-04: rgba(0,0,0,0.04);
+  --black-opa-05: rgba(0,0,0,0.05);
+  --black-opa-1: rgba(0,0,0,0.1);
+  --black-opa-15: rgba(0,0,0,0.15);
+  --black-opa-2: rgba(0,0,0,0.2);
+  --black-opa-25: rgba(0,0,0,0.25);
+  --black-opa-3: rgba(0,0,0,0.3);
+  --black-opa-4: rgba(0,0,0,0.4);
+  --black-opa-5: rgba(0,0,0,0.5);
+  --black-opa-6: rgba(0,0,0,0.6);
+  --black-1: #111;
+  --black-1-opa-03: rgba(17,17,17,0.03);
+  --black-1-opa-3: rgba(17,17,17,0.3);
+  --black-3: #333;
+  --brownish-grey: #666;
+  --pinkish-grey: #ccc;
+  --pale-grey: #ebedef;
+  --blood-orange: #ff5100;
+  --blood-yellow: #ffde98;
+  --coral: #ff712f;
+  --coral-opa-2: rgba(241,89,80,0.5);
+  --coral-opa-8: #f02132d9;
+  --coral-opa-85: #ff684dd9;
+  --kelly-green: #0ab22c;
+  --kelly-green-opa-8: rgba(10,178,44,0.8);
+  --lightish-purple: #eedbff;
+  --lightish-purple-opa-8: rgba(170,103,230,0.8);
+  --bright-sky-blue: #00bdff;
+  --bright-sky-blue-25: rgba(0,189,255,0.25);
+  --bright-sky-blue-4: rgba(0,189,255,0.4);
+  --red: #ff0000;
+  --red-orange: #ff4000;
+  --sky: #00b5ff;
+  --orange: #f5a121;
+  --Yellow-1: #fff1cc;
+
+  --haedline: 48px;
+  --haedline-s: 20px;
+  --title: 32px;
+  --title-s: 28px;
+  --base-space: 20px;
+}
+
+*{margin:0;padding:0;font:inherit;color:inherit;}
+*, :after, :before {box-sizing:border-box;flex-shrink:0;}
+:root {-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%;text-size-adjust:100%;cursor:default;line-height:1.5;overflow-wrap:break-word;-moz-tab-size:4;tab-size:4}
+html, body {height:100%; line-height: 1;}
+img, picture, video, canvas, svg {display: block;max-width:100%;}
+button {background:none;border:0;cursor:pointer;}
+a {text-decoration:none; display: inline-block;}
+table {border-collapse:collapse;border-spacing:0}
+ul{list-style: none;}
+img{max-width: 100%;}
+
+
+body{
+  font-size: 16px;
+  letter-spacing: -0.36px;
+  font-family: 'NetflixSans','Pretendard','NanumSquare','Malgun Gothic';
+  overflow-x: hidden;
+}

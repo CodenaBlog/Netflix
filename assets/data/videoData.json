@@ -1,0 +1,104 @@
+{
+    "items":[
+        {
+            "id":1,
+            "thumb":"./assets/images/theme-thum.jpg",
+            "title":"소년심판",
+            "age": 18,
+            "runingTime":113,
+            "cate":["1","2","3"],
+            "sort":"1,2",
+            "spaceSound":true
+
+        },
+        {
+            "id":2,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVkZ880fLhFJXtwCGMcMc9GTCeiciepePa6IYYD4eZIDQ1aCXU5AFffEUrq_MG4BwxUfQPkmB68GwpDEAjUQEps4AlUZtYNkhO8.webp?r=2ce",
+            "title":"소년심판",
+            "age":12,
+            "runingTime":113,
+            "cate":["흥미진진","무술","쿵푸"],
+            "sort":"2,3",
+            "spaceSound":false
+        },
+        {
+            "id":3,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "title":"소년심판",
+            "age":12,
+            "runingTime":113,
+            "cate":["흥미진진","무술","쿵푸"],
+            "sort":"3"
+        },
+        {
+            "id":4,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-3682-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABfjTysZCjzPTfLUVewUQz7cNLFmrwgZ4Mjbfc9Z2_aR1H56GbXrsJdmv4p49gKQrQfd_Qx_ta5ZytsxeXW_MLgjScdIXlCYOKItgTufcsKd1kubYEnv7XQi-UzaEyBG44evOKjQ1ejBecnCckm8x-vZwS8q_C9mnmcZ46Id064YGggFQZC65xHuDZhWJCHJl9aRokKgE1gYBRZXtbxtbgd4nG6Js3Ib7GB6JhNaJ8N720TCNOnIfn3eqYY6x_eIto6usFHQovYUzOg3TrxlnqfJaap6D_NoAtEo--PRYUhq1KMWFwydRbXQR9fnIrnloSR8v.jpg?r=d7a",
+            "title":"더글로리",
+            "age":18,
+            "runingTime":"에피소드 16개",
+            "cate":["어두운","드라마 장르","복수"],
+            "sort":"4"
+        },
+        {
+            "id":5,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-3682-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABbI8CG16yv-yiV-Bgxu-veuX8NtSg3g10E3b8qfcuJkTstpS5NbQEdCcoQ6_Ufx4goSjWlrwewJlC9fNXvQOKPOQyrRpe2eRNhDZZwdRoEAZLrUbx2hqYJsDixpOU_6XtSBDHA.jpg?r=f13",
+            "title":"나는 신이다",
+            "age":"./assets/images/18.svg",
+            "runingTime":"에피소드 8개",
+            "cate":["다큐 시리즈","범죄 시리즈","범죄 실화 다큐멘터리"],
+            "sort":"4"
+        },
+        {
+            "id":6,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-7129-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABXB_XAKCNiEKIIw6kv7hCDUC8Rr43aTepf_L3ieVtim96nV3l4hF1TxrYuS7_2-fJSJHq_vuzC_kOHKxnRAjdB6PAldOHlOXKuGf4PO88pEjhPvmheGfu3f5IElcyyt6vfYcEgEm-bkfm9VYo-MXETE-sDDWbwToApSNJAzfLRLLHO9RclliE3VbN9wEiDCaDyZ7OoIaaQU6CRp0TmL-jmL6xYkq7_0LRrM4pnmGIAd6-bt4W-Y5XRqnpTqGVxYQrsFKfWD7vXyKuKFQ5-IHMEtMbAD9wjT5uAHfrt3QCUxXJLmqeVUiC1AM8EueI-tZtEdKxajEEjKra6cSjwjcoUdLvdkLf1XTFQgnThpTv_s-QCkXUmYc45CVTDlNHNwIWBHLY-BEz9QXZtRv3lP9w3tWFCdfN5RWQaCqohOlIIOGco_I55UcdLZfJIOry6X4RCPafZgr2g.webp?r=c68",
+            "title":"신성한 이혼",
+            "age": "15+",
+            "runingTime":"에피소드 12개",
+            "cate":["위트있는","감정을 파고드는","드라마 장르"],
+            "sort":"4"
+        },
+        {
+            "id":7,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-3682-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABVIcPUplLeh3P8CZ3yWsjlhgU7pqad2F-fYn2fiS8zt-27Zt6p5gWRwSZ2nP8ne-R3ddabLtG_5oN43VBPvICWZY4YRw8YccuJ3aoLK9uHMxlGVK58vVqkjIOA7B78fcWh7oTRkeAcNNHnP0bBDAgy9C-rzgd0r-Xm7zXaPHoYmBy7BDtyoD-oWRsSoku8eltxEs3DibEqWli-n0qhOOCxUSGBZTkPXJGXiuk6R-GA2o1BgFtGGsSwczZG8yxOwqqAfLc48PG0zkwMJQ_Pto2NIVRuX__guLu91XRHL9-JNfaDZrjoLGmVbjEfUCz5sNDXQ90M0hpgKwzTXYsFtuoglYZvxfKWX41RVJHS4M9AlpE7w3D20WdBPdYa1dZC3RFCHB-7JU-IUZm3n8NvOximi6ZXaEqQ_kDGH6d084eCI21SdFJzsIigmt-t-gBirME8ZvScvFaw.webp?r=063",
+            "title":"일타 스캔들",
+            "age": "15+",
+            "runingTime":"에피소드 16개",
+            "cate":["유쾌 발랄","로맨틱","코메디"],
+            "sort":"4"
+        },
+        {
+            "id":8,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-7129-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABQRzS3QYft6SaUIiI0A-ObnjJyvuqAH7NVVdanBDJQ7AbiBEkqeCY8ytPzZyhbtiKTOuSI_K5vIJDEshrPLf50AxHWe9kF65w_bX.webp?r=c72",
+            "title":"철인왕후",
+            "age": "15+",
+            "runingTime":"에피소드 20개",
+            "cate":["유쾌 발랄","로멘틱","사극"],
+            "sort":"4"
+        },
+        {
+            "id":9,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-3682-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABaCUKtlhV7k04vlMwWHkY3mDMIUbnpyRTiV4N0jfF4bKAwnhDFYFNbcTEWLfWxSUXR-yWyZvI8Lf-V9LMarG99yXYEXSScK0oE2gDu4-aqa_0EQq7ZyNtnQzNM5QQawc8g4g2_h9ntlsN_I4IE4-ILaqG15m8iSjYkOEGb5XKlaN8QfETpvBEMbGxCgQaKanZKY0M1vr5FPByFEsQJeNBhOdJ8eYw8A6uh-1Oi_lsq9VGckydnxl2QXWrATk3mk0ruwUGOeFDDVOnSN28izIJEc1SIaBo7EesxCy1xv73pZc9SkfmIkUq0Rt_zC2N7jU5gBv011jD-fRPEUN7VQjDvCt3c1NQf2Z_FHfR-pTmuJRBlXjNwArEjuiyg96EpJn69RyhLuyg5Y849HNXD1L6J3AV3xaTJRQ73Oj2xO1aJJeAdbExblC18_OC6r3DhcpX9dXbzwlDg.webp?r=5c3",
+            "title":"용감한 형사들",
+            "age": "15+",
+            "runingTime":"에피소드 24개",
+            "cate":["신선 집중","토크쇼","멀티캐스팅"],
+            "sort":"4"
+        },
+        {
+            "id":10,
+            "thumb":"https://occ-0-1360-988.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSkLXHdPU23JtyPFRD4PXn5VEH26DopK4FoAF_lTwKMZRSl_eyirMPnINhhYMQKVBmJw-tMLsUcms5ZwEYwUiq3i2YMs__GHrmw.webp?r=c54",
+            "thumb2":"https://occ-0-3682-988.1.nflxso.net/dnm/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABdtNr-luwXAXiabXEKi_IqTt78nkJEmXIlKuKDXMOBMR_Wz1nYm41txflW7t1CoXbo10LD-z8htTzZI97GpKawnv-3rk76D8-0DOdrCXbE_pA_ee2EN08OLzZ3hhvrDNaAAkNH2K-JQPvCy-4w8nmdJz7VwlhI9EOBobvDFf3E_X_37lfQmH8bZkGm0InDiQCWOcXToyaNq_PnSkNWPtphki2AEQXcQLR_phVOkrrb269xqemYswTuWrokqAKI_lmZ1djtQtRZlYR7DicPZjK5cMBM871FhwJC02FwKTtMuxRCoRx3TMvqgsU6u3HQcVdNRF2l0YAP922yc2uJ_ATl7jGel0uajRH9v6nSVwFbkpQ0vO3LUOt1YSuS25wFU0VB7-w_flHj7r9PN9NOA42wg3A8BaOS72r3v9YwvUa12ZsYqrmNCHPrrUTRPcXlkYSX4HLyhI1g.webp?r=2b4",
+            "title":"지구마블 세계여행",
+            "age": "15+",
+            "runingTime":"에피소드 9개",
+            "cate":["힐링","마은이 편안해지는","여행 리얼리티 시리즈"],
+            "sort":"4"
+        }
+    ]
+}
